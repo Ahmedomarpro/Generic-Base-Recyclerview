@@ -2,6 +2,19 @@
 
 ## RecyclerView adapter classes for managing multiple view types
 
+ 
+ Project RecyclerView 
+[GitHub](https://github.com/Ahmedomarpro/Generic-Base-Recyclerview/tree/master/app/src/main)
+
+![Screenshot (7)](https://user-images.githubusercontent.com/22521791/66183340-e42b0780-e678-11e9-8b50-ca426585cfbf.png)
+
+![]
+
+![Screenshot (8)](https://user-images.githubusercontent.com/22521791/66183354-f1e08d00-e678-11e9-805a-6bdd59ecc536.png)
+
+
+
+ 
 # Usage 
 
 ### 1. Create DataBinder
