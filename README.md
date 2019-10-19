@@ -8,7 +8,7 @@
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/22521791/66183340-e42b0780-e678-11e9-8b50-ca426585cfbf.png)
 
-![]
+![View]
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/22521791/66183354-f1e08d00-e678-11e9-805a-6bdd59ecc536.png)
 
