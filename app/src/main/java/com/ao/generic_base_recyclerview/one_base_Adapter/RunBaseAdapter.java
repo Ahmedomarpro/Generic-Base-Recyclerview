@@ -41,8 +41,7 @@ public class RunBaseAdapter extends BaseAdapter<String,RecyclerViewBaseViewHolde
 	public void onBindViewHolder(@NonNull RecyclerViewBaseViewHolder holder, int position) {
 		String id_Position = listOfItime.get(position);
 		holder.textView.setText(id_Position);
-
-		holder.textView.setOnClickListener(v -> {
+ 		holder.textView.setOnClickListener(v -> {
 			if (itemClickListener != null){
 
 					itemClickListener.OnclickListener(position,id_Position);
